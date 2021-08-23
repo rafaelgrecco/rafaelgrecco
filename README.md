@@ -3,7 +3,7 @@
 - 🎓 Studying: Bachelor's Degree in Electrical Engineering at the State University of Maringá [(UEM)](http://www.uem.br/)
 - 🌱 Learning: Data Science, Machine Learning, React Native
 ##
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/rafaelgrecco">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelgrecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgrecco&layout=compact&langs_count=7&theme=dracula"/>
