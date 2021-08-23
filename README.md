@@ -1,7 +1,7 @@
 ## Hi there, I'm Rafael Grecco 👨‍💻
 - 🔭 Currently work: Researcher at the State University of Maringá, in the [Manna Team group](https://manna.team/membros/13)
 - 🎓 Studying: Bachelor's Degree in Electrical Engineering at the State University of Maringá [(UEM)](http://www.uem.br/)
-- 🌱 Learning: Data Science, Machine Learning, React Native
+- 🌱 Learning: Computer Vision, Data Science, Machine Learning, React Native
 ##
  <div style="textAlign:Justify">
   <a href="https://github.com/rafaelgrecco">
