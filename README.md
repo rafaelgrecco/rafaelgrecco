@@ -1,5 +1,5 @@
 ## Hi there, I'm Rafael Grecco 👨‍💻
-- 🔭 Currently work: Data Scientist Jr at [Turivius](https://www.turivius.com/) and Researcher at the [Manna Team group](https://manna.team/membros/13) 
+- 🔭 Currently work: Data Scientist Jr at [XP Inc](https://www.xpinc.com/) and Researcher at the [Manna Team group](https://manna.team/membros/13) 
 - 🎓 Studying: Bachelor's Degree in Electrical Engineering at the State University of Maringá [(UEM)](http://www.uem.br/)
 - 🌱 Learning: Computer Vision, Data Science, Machine Learning, React Native
 ##
