@@ -1,31 +1,47 @@
-## Hi there, I'm Rafael Grecco 👨‍💻
-- 🔭 Currently work: Data Enginner [XP Inc](https://www.xpinc.com/) and Researcher at the [Manna Team group](https://manna.team/membros/13) 
-- 🎓 Studying: Bachelor's Degree in Electrical Engineering at the State University of Maringá [(UEM)](http://www.uem.br/)
-- 🌱 Learning: Computer Vision, Data Science, Machine Learning, React Native
-##
- <div style="textAlign:Justify">
-  <a href="https://github.com/rafaelgrecco">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelgrecco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgrecco&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
- 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
+<h1 align="center">Welcome!<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="45px"/></h1>
 
-</div>
-  
-  ## 
+<br/>
 
-<div> 
-  <a href = "ra122453@uem.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-grecco-3b11681b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-  
+<h3 align="center">Setup Overview</h3>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Main System-Macbook Air 2020 M1-292e33?style=flat-square">
+  <img src="https://img.shields.io/badge/IDE-Vs Code & PyCharm Professional-292e33?style=flat-square&logo=pycharm&logoColor=fff">
+  <img src="https://img.shields.io/badge/Languages-Portuguese (BR), English-292e33?style=flat-square&logo=messenger&logoColor=fff">
+</p>
+
+---
+
+<h3 align="center">
+  Technologies and Programming Languages
+</h3>
+<br/>
+<p align="center">
+  <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=fff"> 
+  <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Selenium WebDriver-292e33?style=flat-square&logo=Selenium&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/OpenSearch-292e33?style=flat-square&logo=OpenSearch&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff">
+  <br>
+  <img style="width: auto;" src="https://img.shields.io/badge/RabbitMQ-292e33?style=flat-square&logo=RabbitMQ&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Docker-292e33?style=flat-square&logo=Docker&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/AWS-292e33?style=flat-square&logo=amazon&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Kafka-292e33?style=flat-square&logo=ApacheKafka&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/FastAPI-292e33?style=flat-square&logo=FastAPI&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Airflow-292e33?style=flat-square&logo=ApacheAirflow&logoColor=fff">
+  <br>
+  <img style="width: auto;" src="https://img.shields.io/badge/Django-292e33?style=flat-square&logo=Django&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Azure-292e33?style=flat-square&logo=Azure&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/MageAI-292e33?style=flat-square">
+  <img style="width: auto;" src="https://img.shields.io/badge/Regular Expressions-292e33?style=flat-square">
+</p>
+
+---
+<h3 align="center">
+  Get in touch!
+</h3>
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-grecco-3b11681b4/"><img style="width: 108px;" src="https://img.shields.io/badge/LinkedIn-292e33?style=flat-square&logo=LinkedIn&logoColor=fff"></a>
+</p>
