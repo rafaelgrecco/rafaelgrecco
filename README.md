@@ -32,7 +32,7 @@
   <img style="width: auto;" src="https://img.shields.io/badge/Airflow-292e33?style=flat-square&logo=ApacheAirflow&logoColor=fff">
   <br>
   <img style="width: auto;" src="https://img.shields.io/badge/Django-292e33?style=flat-square&logo=Django&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/Azure-292e33?style=flat-square&logo=Azure&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Azure-292e33?style=flat-square&logo=MicrosoftAzure&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/MageAI-292e33?style=flat-square">
   <img style="width: auto;" src="https://img.shields.io/badge/Regular Expressions-292e33?style=flat-square">
 </p>
