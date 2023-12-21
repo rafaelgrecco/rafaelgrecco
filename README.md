@@ -18,9 +18,9 @@
 <br/>
 <p align="center">
   <img style="width: auto;" src="https://img.shields.io/badge/Python-292e33?style=flat-square&logo=Python&logoColor=fff"> 
-  <img style="width: auto;" src="https://img.shields.io/badge/Git-292e33?style=flat-square&logo=Git&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/Selenium WebDriver-292e33?style=flat-square&logo=Selenium&logoColor=fff">
-  <img style="width: auto;" src="https://img.shields.io/badge/OpenSearch-292e33?style=flat-square&logo=OpenSearch&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Apache Spark-292e33?style=flat-square&logo=ApacheSpark&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Apache Flink-292e33?style=flat-square&logo=ApacheFlink&logoColor=fff">
+  <img style="width: auto;" src="https://img.shields.io/badge/Elasticsearch-292e33?style=flat-square&logo=ElasticSearch&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/MongoDB-292e33?style=flat-square&logo=MongoDB&logoColor=fff">
   <img style="width: auto;" src="https://img.shields.io/badge/PostgreSQL-292e33?style=flat-square&logo=PostgreSQL&logoColor=fff">
   <br>
